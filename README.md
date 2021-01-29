@@ -1,6 +1,6 @@
 # goit-markup-hw-01
 
-Web Page (https://pro1024-dio.github.io/goit-markup-hw-01/)
+[Web Page](https://pro1024-dio.github.io/goit-markup-hw-01/)
 
 ## Домашнє завдання #1
 
